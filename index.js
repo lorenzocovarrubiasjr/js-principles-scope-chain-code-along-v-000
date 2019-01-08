@@ -1,10 +1,14 @@
 var customerName = 'bob'
 
 function upperCaseCustomerName() {
-  return customerName.uppercase() 
+  return customerName.uppercase()
 }
 
 function setBestCustomer(customer) {
-  let bestCustomer = customer 
+  var bestCustomer = customer
   return bestCustomer
+}
+
+function overWriteBestCustomer(customer) {
+  
 }
