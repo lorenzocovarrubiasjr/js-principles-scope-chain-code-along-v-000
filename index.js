@@ -18,5 +18,10 @@ const LeastFavoriteCustomer = "not I"
 
 function reassignLeastFavorite() {
   LeastFavoriteCustomer = "I hope not I"
+}
 
+const favoriteCustomer = "Lorenzo"
+
+function attemptTwoFavoriteCustomers(){
+  const favoriteCustomer ="Imelda"
 }
