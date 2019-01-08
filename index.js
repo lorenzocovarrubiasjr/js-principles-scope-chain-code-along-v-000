@@ -5,10 +5,10 @@ function upperCaseCustomerName() {
   return customerName
 }
 
-var bestCustomer = undefined 
+var bestCustomer = undefined
 
 function setBestCustomer() {
-  let bestCustomer = 'not bob'
+   bestCustomer = 'not bob'
   return bestCustomer
 }
 
