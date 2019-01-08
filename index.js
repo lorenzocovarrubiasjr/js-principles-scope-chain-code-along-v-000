@@ -9,6 +9,7 @@ function setBestCustomer() {
   return bestCustomer
 }
 
-function overWriteBestCustomer(customer) {
-  
+function overWriteBestCustomer() {
+ var bestCustomer = 'maybe bob'
+ return bestCustomer 
 }
